@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BATM Registration</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="Name">Last, First</string>
+    <string name="Phone">(xxx)xxx-xxxx</string>
+    <string name="Address">Address</string>
+    <string name="City">City, State, ZIP</string>
+    <string name="annual_40">Registering Annual Membership ($40)</string>
+    <string name="first">First</string>
+    <string name="last">Last</string>
+    <string name="lifetime_200">Registering Life Membership ($200)</string>
+</resources>
